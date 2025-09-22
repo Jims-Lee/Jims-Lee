@@ -22,13 +22,13 @@
 
 <div align="center">
     <h2>我的技术栈🫡</h2>
-    <h3>学了些皮毛的语言🥲</h3>
+    <h3>精通的技术栈🥲</h3>
     <p align="center">
-        <img align="center" src="https://skillicons.dev/icons?i=html,css,js,md,mysql,php,py,xd" />
+        <img align="center" src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,git,kubernetes,docker,c,vim" />
     </p>
-    <h4>堪堪入门的框架😭</h4>
+    <h4>略懂😭</h4>
     <p align="center">
-        <img align="center" src="https://skillicons.dev/icons?i=jquery,less,vite,vue" />
+        <img align="center" src="https://skillicons.dev/icons?i=ansible,go,jenkins,kafka,mysql," />
     </p>
 </div>
 
@@ -36,8 +36,7 @@
 
 <div align="center">
     <h2>找到我🌹</h2>
-    <a href="https://space.bilibili.com/495882959" target="_blank"><img  align=center src="https://img.shields.io/badge/哔哩哔哩-爱咕咕的楠-%23fda4af?style=flat"/></a>
-    <a href="https://quenan.cn/" target="_blank"><img  align=center src="https://img.shields.io/badge/个人主页-Jims的主页-%23f0dc4e?style=flat"/></a>
+    <a href="https://space.bilibili.com/495882959" target="_blank"><img  align=center src="https://space.bilibili.com/147095828"/></a>
     <a href="mailto:qn2097271942@outlook.com" target="_blank"><img  align=center src="https://img.shields.io/badge/邮箱-jims@prd.ac.cn-%231890ff?style=flat"/></a>
 </div>
 
