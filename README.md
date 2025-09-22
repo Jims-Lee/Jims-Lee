@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=qnquenan&locale=cn&line_height=33&show_icons=true&hide_border=true&theme=transparent&text_color=F9AEAC&title_color=F9AEAC&icon_color=F9AEAC&hide=prs,contribs&rank_icon=default"/>
-    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app/?user=qnquenan&theme=transparent&hide_border=true&stroke=F9AEAC&ring=F9AEAC&fire=F9AEAC&currStreakNum=F9AEAC&currStreakLabel=F9AEAC&sideNums=F9AEAC&sideLabels=F9AEAC"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Jims-Lee&locale=cn&line_height=33&show_icons=true&hide_border=true&theme=transparent&text_color=F9AEAC&title_color=F9AEAC&icon_color=F9AEAC&hide=prs,contribs&rank_icon=default"/>
+    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app/?user=Jims-Lee&theme=transparent&hide_border=true&stroke=F9AEAC&ring=F9AEAC&fire=F9AEAC&currStreakNum=F9AEAC&currStreakLabel=F9AEAC&sideNums=F9AEAC&sideLabels=F9AEAC"/>
 </div>
 
 <div align="center">
