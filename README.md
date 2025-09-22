@@ -12,12 +12,12 @@
 </div>
 
 <div align="center">
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=qnquenan&theme=github-compact&hide_border=true&area=true&bg_color=00000000&color=F9AEAC&line=F9AEAC&point=F9AEAC&title_color=F9AEAC&area_color=F9AEAC&locale=zh" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Jims-Lee&theme=github-compact&hide_border=true&area=true&bg_color=00000000&color=F9AEAC&line=F9AEAC&point=F9AEAC&title_color=F9AEAC&area_color=F9AEAC&locale=zh" />
 </div>
 
 <div align="center">
-    <img width="530" src="https://github-readme-stats.vercel.app/api/wakatime?username=qnquenan&theme=transparent&hide_border=true&text_color=F9AEAC&title_color=F9AEAC&icon_color=F9AEAC&bg_color=00000000&layout=compact" />
-    <img width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qnquenan&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6&text_color=F9AEAC&title_color=F9AEAC&icon_color=F9AEAC&bg_color=00000000" />
+    <img width="530" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jims-Lee&theme=transparent&hide_border=true&text_color=F9AEAC&title_color=F9AEAC&icon_color=F9AEAC&bg_color=00000000&layout=compact" />
+    <img width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jims-Lee&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6&text_color=F9AEAC&title_color=F9AEAC&icon_color=F9AEAC&bg_color=00000000" />
 </div>
 
 <div align="center">
